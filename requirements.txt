@@ -1,0 +1,8 @@
+Keras==2.2.4
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
+keras-tqdm==2.0.1
+matplotlib==3.2.1
+numpy==1.18.4
+snakemake==5.30.1
+tensorflow==1.12.0
