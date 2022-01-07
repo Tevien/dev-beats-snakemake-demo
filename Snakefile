@@ -1,3 +1,4 @@
+# this is my snakefile
 configfile: "config.json"
 
 rule all:
